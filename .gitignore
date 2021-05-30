@@ -32,4 +32,6 @@
 *.app
 
 Final output/.vs/*
+Final output/Debug/*
+Final output/x64/*
 Final output/assets/*
