@@ -1,0 +1,35 @@
+﻿main.obj : error LNK2019: unresolved external symbol __imp_glewInit referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwInit referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwTerminate referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwWindowHint referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwCreateWindow referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwDestroyWindow referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwWindowShouldClose referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwSetWindowShouldClose referenced in function "void __cdecl processInput(struct GLFWwindow *)" (?processInput@@YAXPEAUGLFWwindow@@@Z)
+main.obj : error LNK2019: unresolved external symbol glfwPollEvents referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwSetInputMode referenced in function "void __cdecl processInput(struct GLFWwindow *)" (?processInput@@YAXPEAUGLFWwindow@@@Z)
+main.obj : error LNK2019: unresolved external symbol glfwGetKey referenced in function "void __cdecl processInput(struct GLFWwindow *)" (?processInput@@YAXPEAUGLFWwindow@@@Z)
+main.obj : error LNK2019: unresolved external symbol glfwGetTime referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwMakeContextCurrent referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwSwapBuffers referenced in function main
+main.obj : error LNK2001: unresolved external symbol __imp___glewBindBuffer
+main.obj : error LNK2001: unresolved external symbol __imp___glewBufferData
+main.obj : error LNK2001: unresolved external symbol __imp___glewGenBuffers
+main.obj : error LNK2001: unresolved external symbol __imp___glewAttachShader
+main.obj : error LNK2001: unresolved external symbol __imp___glewCompileShader
+main.obj : error LNK2001: unresolved external symbol __imp___glewCreateProgram
+main.obj : error LNK2001: unresolved external symbol __imp___glewCreateShader
+main.obj : error LNK2001: unresolved external symbol __imp___glewEnableVertexAttribArray
+main.obj : error LNK2001: unresolved external symbol __imp___glewGetAttribLocation
+main.obj : error LNK2001: unresolved external symbol __imp___glewGetUniformLocation
+main.obj : error LNK2001: unresolved external symbol __imp___glewLinkProgram
+main.obj : error LNK2001: unresolved external symbol __imp___glewShaderSource
+main.obj : error LNK2001: unresolved external symbol __imp___glewUniformMatrix4fv
+main.obj : error LNK2001: unresolved external symbol __imp___glewUseProgram
+main.obj : error LNK2001: unresolved external symbol __imp___glewVertexAttribPointer
+main.obj : error LNK2001: unresolved external symbol __imp___glewBindVertexArray
+main.obj : error LNK2001: unresolved external symbol __imp___glewGenVertexArrays
+C:\Users\roitr\Documents\ProjectFiles\GDGRAPX\[T1] Triangle Experiments\lib\glfw3.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\roitr\Documents\ProjectFiles\GDGRAPX\[T1] Triangle Experiments\lib\glew32.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\roitr\Documents\ProjectFiles\GDGRAPX\[T1] Triangle Experiments\lib\soil2-debug.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\roitr\Documents\ProjectFiles\GDGRAPX\[T3] Teapot\x64\Debug\[T2] OBJ Loader.exe : fatal error LNK1120: 31 unresolved externals

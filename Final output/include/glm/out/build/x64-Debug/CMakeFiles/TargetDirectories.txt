@@ -1,0 +1,2 @@
+C:/Users/roitr/Documents/Project Files/GDGRAPX/[T1] Triangle Experiments/include/glm/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/roitr/Documents/Project Files/GDGRAPX/[T1] Triangle Experiments/include/glm/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

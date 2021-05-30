@@ -1,0 +1,15 @@
+﻿  main.cpp
+C:\Users\roitr\Documents\ProjectFiles\GDINTAI\Final output\Final output\main.cpp(105,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\roitr\Documents\ProjectFiles\GDINTAI\Final output\Final output\main.cpp(325,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\roitr\Documents\ProjectFiles\GDINTAI\Final output\Final output\main.cpp(391,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\roitr\Documents\ProjectFiles\GDINTAI\Final output\Final output\main.cpp(462,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\roitr\Documents\ProjectFiles\GDINTAI\Final output\Final output\main.cpp(491,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\roitr\Documents\ProjectFiles\GDINTAI\Final output\Final output\main.cpp(492,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\roitr\Documents\ProjectFiles\GDINTAI\Final output\Final output\main.cpp(498,13): warning C4552: '!=': result of expression not used
+C:\Users\roitr\Documents\ProjectFiles\GDINTAI\Final output\Final output\main.cpp(520,17): warning C4244: '-=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\roitr\Documents\ProjectFiles\GDINTAI\Final output\Final output\main.cpp(553,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  [T2] OBJ Loader.vcxproj -> C:\Users\roitr\Documents\ProjectFiles\GDINTAI\Final output\Final output\Debug\[T2] OBJ Loader.exe
